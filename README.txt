@@ -1,0 +1,1 @@
+Use to parse & CIM data from Nessus Essentials reports with all fields selected.
